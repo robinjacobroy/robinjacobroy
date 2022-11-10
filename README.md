@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Robin
-- I am an experienced Doctoral Researcher with a demonstrated history of working in Data Science. Skilled in Python Programming, Deep Learning and Data Analysis. 
-- Strong research professional with a Master of Science focused in Physics from Mahatma Gandhi University, Kerala.
-- 👀 I’m interested in Python Programming and Machine Learning
-- 🌱 I’m currently exploring Satellite Image Analysis
+- 👋 Hi, I’m Robin 
+- ℹ️ I am an experienced Doctoral Researcher at Kerala University with a demonstrated history of working in Data Science. 
+- ✨ Skilled in Python Programming, Deep Learning and Data Analysis. 
+- 👀 Strong Research Professional with a Master of Science focused in Physics from Mahatma Gandhi University, Kerala.
+- 🌱 I’m currently working on the applications of Machine Learning in Satellite Image Analysis
 
 <!---
 robinjacobroy/robinjacobroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
