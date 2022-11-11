@@ -12,7 +12,7 @@
 
 — Albus Dumbledore
 
-## About me
+## `About me`
 
 - 👋 Hi, I’m Robin. You might recognize me as GitHub's mascot.
 - ℹ️ I am an experienced Doctoral Researcher at Kerala University with a demonstrated history of working in Data Science. 
