@@ -16,7 +16,7 @@
 ## `About me`
 
 - 👋 Hi, I’m Robin. You might recognize me as GitHub's mascot.
-- ℹ️ I am an experienced Doctoral Researcher at Kerala University with a demonstrated history of working in Data Science. 
+- ℹ️ I am a Doctoral Researcher at Kerala University with a demonstrated history of working in Data Science. 
 - ✨ Skilled in Python Programming, Deep Learning and Data Analysis. 
 - 👀 Strong Research Professional with a Master of Science focused in Physics from Mahatma Gandhi University, Kerala.
 - 🌱 I’m currently working on the applications of Machine Learning in Satellite Image Analysis.
