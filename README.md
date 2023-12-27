@@ -15,11 +15,11 @@
 
 ## `About me`
 
-- 👋 Hi, I’m Robin. You might recognize me as GitHub's mascot.
-- ℹ️ I am a Machine Learning Researcher at airis4D with a demonstrated track record of working on Computer Vision problems.
+- 👋 Hi, I’m Robin. I'm a Research Scholar in Physics at Kerala University, India.
+- ℹ️ I specialize in applying machine learning to address challenges in the scientific domain, particularly in Astronomy, Remote Sensing and Biosciences.
+- 🌱 My works showcases a proven track record in solving Computer Vision problems within these fields.
 - ✨ Skilled in Python Programming, Deep Learning and Data Analysis. 
 - 👀 Strong research professional with an M.Sc and M.Phil in Physics from Mahatma Gandhi University, Kerala.
-- 🌱 I’m currently working on the applications of Machine Learning in scientific domains, particularly in Astronomy, Remote Sensing, and Medical Imaging.
 
 <details>
 <summary>My top languages</summary>
